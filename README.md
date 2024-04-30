@@ -1,2 +1,3 @@
-# MY_PLANT_SHOP
-PLANTS!
+# MY PLANT SHOP
+୨୧ - My Plant Shop - ୨୧
+<img src="preview.png">
